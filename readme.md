@@ -4,10 +4,12 @@
 
 We release a team formation dataset that contains expertise annotations and long-text input. It can be used for prompt-based team formation.
 
+
+
 ### About
 The dataset is a subset of DBLP V14. It contains paper in computer science domain. Each author has published at least 2 papers in this domain, and each paper's abstract length is between 100 and 5,000 characters.
 
-The dataset can be obtaind from file: cs_paper_with_author_published_2plus.csv
+The dataset can be downloaded here: https://drive.google.com/file/d/13IcASGsMql9wcQSkZKWWDkw2VR9qKpOQ/view?usp=drive_link
 
 ### Data dictionary
 
@@ -26,6 +28,8 @@ input: a combination of 10 expertise annotations and the task_description (paper
 ### Data preparation 
 Run notebook D001 to D003 in sequence.
 ### Model training 
-``` python train_model.py```
+``` python train.py```
+### Model prediction 
+``` python predict.py```
 ### Evaluation
-``` python evaluate.py```
+``` python eval.py```
