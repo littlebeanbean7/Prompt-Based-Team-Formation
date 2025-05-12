@@ -1,4 +1,4 @@
-# Learning to Generate Expert Teams
+# Say the Task, Build the Team: Prompt-Based Team Formation
 
 ## Released Dataset
 
