@@ -1,5 +1,8 @@
 # Say the Task, Build the Team: Prompt-Based Team Formation
 
+## Paper
+This repo contains code of paper Say the Task, Build the Team: Prompt-Based Team Formation to be published on ASONAM 2025.
+
 ## Released Dataset
 
 We release a team formation dataset that contains expertise annotations and long-text input. It can be used for prompt-based team formation.
@@ -24,7 +27,7 @@ task_description: the abstract of the paper
 input: a combination of 10 expertise annotations and the task_description (paper abstract). In the format of f"Queries: {expertise annotations}. Context: {task_description}"
 
 
-## Code for prompt-based team formation
+## Train and Evaluate a Prompt-Based Team Formation (PTF) Model
 ### Data preparation 
 Run notebook D001 to D003 in sequence.
 ### Model training 
