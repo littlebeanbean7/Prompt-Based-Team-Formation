@@ -37,8 +37,9 @@ Run notebook D001 to D003 in sequence.
 ### Evaluation
 ``` python eval.py```
 
-## To cite
-```
+## Citation
+If you use this project in your research, please cite it as follows:
+```bibtex
 @inproceedings{zhang2025ptf,
   title={Say the Task, Build the Team: Prompt-Based Team Formation},
   author={Zhang, Lingling and Rad, Radin Hamidi and Zihayat, Morteza and Bagheri, Ebrahim},
