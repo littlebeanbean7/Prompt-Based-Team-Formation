@@ -37,7 +37,8 @@ Run notebook D001 to D003 in sequence.
 ### Evaluation
 ``` python eval.py```
 
-# To cite
+## To cite
+```
 @inproceedings{zhang2025ptf,
   title={Say the Task, Build the Team: Prompt-Based Team Formation},
   author={Zhang, Lingling and Rad, Radin Hamidi and Zihayat, Morteza and Bagheri, Ebrahim},
@@ -46,3 +47,4 @@ Run notebook D001 to D003 in sequence.
   year={2025},
   organization={Springer}
 }
+```
