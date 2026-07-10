@@ -36,3 +36,13 @@ Run notebook D001 to D003 in sequence.
 ``` python predict.py```
 ### Evaluation
 ``` python eval.py```
+
+# To cite
+@inproceedings{zhang2025ptf,
+  title={Say the Task, Build the Team: Prompt-Based Team Formation},
+  author={Zhang, Lingling and Rad, Radin Hamidi and Zihayat, Morteza and Bagheri, Ebrahim},
+  booktitle={International Conference on Advances in Social Networks Analysis and Mining},
+  pages={227--242},
+  year={2025},
+  organization={Springer}
+}
